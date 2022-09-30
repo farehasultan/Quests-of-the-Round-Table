@@ -14,18 +14,19 @@ Implemented the Mediator, Strategy and Factory Patterns. More details in the fin
 ## Instructions  
 To run the Spring Application, download the source code on your computer.  
 Cd into src>main>java>app and run the  QOTRTApplication.java. As shown below. 
-. 
-   +---src  
-    |   |   .DS_Store 
-    |   |     
-    |   +---main  
-    |   |   |   .DS_Store 
-    |   |   |       
-    |   |   +---java  
-    |   |   |   |   .DS_Store   
-    |   |   |   |         
-    |   |   |   \---app 
-    |   |   |       |   QOTRTApplication.java   
+ 
+    +---src   
+    |    |   .DS_Store 
+    |    |     
+    |    +---main  
+    |    |     |   .DS_Store 
+    |    |     |       
+    |    |     +---java  
+    |    |     |     |     .DS_Store   
+    |    |     |     |         
+    |    |     |     \---app 
+    |    |     |     |     QOTRTApplication.java      
+      
 In a browser of your choice, type in http://localhost:8080 and start playing the game!    
 
 
